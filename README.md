@@ -6,9 +6,8 @@ This repository is used to manage all materials related to our capstone project.
 
 - `Meeting Minutes/` - meeting notes and records
 - `code/` - source code and scripts
-- `data/` - processed or working data
+- `data/` - processed or raw data
 - `doc/` - project documents
-- `fullData/` - raw or full datasets
 - `lit_review/` - literature review materials
 - `report/` - reports and final write-ups
 - `webpage/` - webpage-related files
