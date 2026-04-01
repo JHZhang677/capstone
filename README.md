@@ -5,7 +5,6 @@ This repository is used to manage all materials related to our capstone project.
 ## Repository Structure
 
 - `Meeting Minutes/` - meeting notes and records
-- `Meeting Slides/` - slides used in meetings and presentations
 - `code/` - source code and scripts
 - `data/` - processed or working data
 - `doc/` - project documents
