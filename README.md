@@ -1,121 +1,256 @@
-# 🎓 Capstone Project
+# Capstone Project Repository
 
-## 📌 Project Overview
+## 1. Project Overview
 
-This repository contains the work for our capstone project. The project focuses on developing a complete solution through research, design, implementation, and evaluation.
+This repository is used to manage all materials related to our capstone project, including datasets, code, documents, literature review, and meeting records.
 
-The goal of this project is to explore the problem domain, analyze requirements, and deliver a functional outcome supported by technical implementation and documentation.
+The goal of this repository is to ensure a clear structure, standardized workflow, and efficient collaboration among team members.
 
 ---
 
-## 📁 Repository Structure
+## 2. Repository Structure
 
-```
-capstone/
-├── data/                 # Data used in the project
-│   ├── raw_data/         # Original data (unchanged)
-│   └── processed_data/   # Cleaned / transformed data
+```text
+capstone-project/
+├── README.md
+├── .gitignore
 │
-├── example_code/         # Experimental or prototype code
-├── final_code/           # Final implementation
+├── meeting_minutes/
+│   ├── host/
+│   └── supervisor/
 │
-├── doc/                  # Project-related documents
-├── lit_review/           # Literature review materials
-├── research_papers/      # Reference papers
+├── data/
+│   ├── raw_data/
+│   ├── processed_data/
+│   └── README.md
 │
-├── Meeting Minutes/      # Meeting records and notes
-├── webpage/              # Project website or frontend
+├── docs/
+│   ├── requirement_analysis/
+│   ├── problem_statement/
+│   └── project_plan/
 │
-├── README.md             # Project overview
-└── .gitignore
+├── literature_review/
+│   ├── papers/
+│   └── notes/
+│
+├── example_code/
+├── final_code/
+└── webpage/
 ```
 
 ---
 
-## 🧩 Project Components
+## 3. Code Description Rules
 
-### 1. Literature Review
+All code files must include a header description at the beginning.
 
-Relevant academic papers and background materials are stored in:
+Each code file should clearly state:
 
-* `lit_review/`
-* `research_papers/`
+* Purpose of the code
+* Input data
+* Output results
+* How to run the code
+* Required dependencies
 
-These resources support the problem definition and methodology.
+### Example
 
----
-
-### 2. Data
-
-* **Raw data** is stored in `data/raw_data/`
-* **Processed data** is stored in `data/processed_data/`
-
-All preprocessing steps are documented in the code.
-
----
-
-### 3. Code
-
-* `example_code/`: Used for testing ideas, prototypes, and experiments
-* `final_code/`: Contains the final implementation of the project
-
----
-
-### 4. Documentation
-
-All reports, requirement analysis, and supporting documents are in:
-
-* `doc/`
-
----
-
-### 5. Meetings
-
-Meeting discussions and progress tracking are recorded in:
-
-* `Meeting Minutes/`
-
----
-
-### 6. Webpage
-
-Any web-based interface or project presentation is stored in:
-
-* `webpage/`
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository:
-
-```
-git clone (https://github.com/JHZhang677/capstone)
+```python
+"""
+File: wavelet_analysis.py
+Purpose: Apply wavelet transform to time-series data
+Input: data/processed_data/sample_data.csv
+Output: figures/wavelet_result.png
+Author: Jianhao Zhang
+Last Updated: 2026-04-XX
+"""
 ```
 
-2. Navigate to the project folder:
+### Code Organization
 
-```
-cd capstone
-```
-
-3. Explore different components:
-
-* Data → `data/`
-* Code → `example_code/` / `final_code/`
-* Documentation → `doc/`
-
-
-## 📅 Project Status
-
-This project is currently under active development as part of a capstone course.
+* `example_code/`: experimental, testing, or learning code
+* `final_code/`: final, stable, and project-ready code
 
 ---
 
-## 📬 Notes
+## 4. File Naming Convention
 
-* Raw data should not be modified directly
-* Processed data should be reproducible from code
-* Code in `final_code/` represents the final version used for evaluation
+To maintain consistency:
+
+* Use lowercase letters
+* Use underscores `_` instead of spaces
+* Use clear and descriptive names
+
+### Examples
+
+```text
+wavelet_analysis.py
+meeting_minutes_2026_04_23.pdf
+requirement_analysis_v1.md
+```
+
+Avoid:
+
+```text
+test.py
+final_version2.py
+new_file.py
+```
 
 ---
+
+## 5. Branch Creation Rules
+
+All development must be done on branches.
+
+Do NOT work directly on the `main` branch.
+
+### Branch Naming Format
+
+```text
+feature/name-task
+fix/name-issue
+docs/name-description
+```
+
+### Examples
+
+```text
+feature/jianhao-wavelet-analysis
+docs/jianhao-readme-update
+fix/jianhao-data-error
+```
+
+---
+
+## 6. Push & Merge Rules
+
+Before pushing changes:
+
+1. Pull the latest version from `main`
+2. Work on your own branch
+3. Ensure files are in the correct folders
+4. Follow naming conventions
+5. Do NOT upload temporary or system files
+6. Write clear commit messages
+
+### Standard Workflow
+
+```bash
+git checkout main
+git pull origin main
+
+git checkout -b feature/jianhao-task
+
+git add .
+git commit -m "Add wavelet analysis code"
+git push origin feature/jianhao-task
+```
+
+### Commit Message Examples
+
+```text
+Add wavelet analysis code
+Update README structure
+Move meeting files into folders
+Fix data processing issue
+```
+
+After pushing:
+
+* Create a Pull Request (PR)
+* Wait for review before merging into `main`
+
+---
+
+## 7. Dataset Rules
+
+All datasets must be stored under:
+
+```text
+data/raw_data/        # original data
+data/processed_data/  # cleaned data
+```
+
+### Rules
+
+* Raw data must NOT be modified
+* Processed data must be saved separately
+* Large datasets should NOT be uploaded directly
+* Include dataset descriptions in `data/README.md`
+* Clearly document data source and processing steps
+* Do NOT upload sensitive or private data
+
+---
+
+## 8. Data Documentation (data/README.md)
+
+Each dataset should include:
+
+* Data source
+* File format
+* Description of variables
+* Processing steps
+
+All transformations must be reproducible.
+
+---
+
+## 9. README Maintenance Rules
+
+The README file must be kept up to date.
+
+### Requirements
+
+* Update README after any structural change
+* Ensure consistency with actual repository structure
+* Remove outdated information
+* Keep formatting clean and readable
+
+### Maintenance Rule
+
+README should be reviewed:
+
+* Before major submissions
+* After structural updates
+
+---
+
+## 10. Collaboration Guidelines
+
+To ensure smooth teamwork:
+
+* Follow repository structure strictly
+* Communicate before major changes
+* Keep commits small and meaningful
+* Avoid duplicate or unnecessary files
+* Maintain clear documentation
+
+---
+
+## 11. Notes
+
+* Do NOT upload unnecessary files (e.g., `.DS_Store`, cache files)
+* Use `.gitignore` properly
+* Keep the repository clean and organized
+
+---
+
+## 12. Maintainer
+
+This repository structure and guideline are maintained by:
+
+**Jianhao Zhang**
+
+---
+
+## 13. Summary
+
+This guideline ensures:
+
+* Clear file organization
+* Standardized coding practice
+* Efficient collaboration
+* Reproducible research workflow
+
+All team members should follow these rules throughout the project.
+
