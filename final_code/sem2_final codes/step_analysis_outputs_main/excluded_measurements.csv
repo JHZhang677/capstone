@@ -1,0 +1,20 @@
+measurement_id,source_file,sheet,condition_label,experiment_subtype,exclusion_reason
+P1M0032,14DEC_UDEL_Blood_Rheo.xlsx,Step UpDown,0.1-->10,STEP_UP,exact duplicate of P1M0031
+P1M0033,14DEC_UDEL_Blood_Rheo.xlsx,Step UpDown,0.1-->20,STEP_UP,exact duplicate of P1M0031
+P1M0105,9MAY19 UDEL Blood.xlsx,Steps,5-->.1(1/s),STEP_DOWN,exact duplicate of P1M0103
+P1M0131,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx,steps,5-->.5,STEP_DOWN,exact duplicate of P1M0128
+P1M0132,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx,steps,.1-->.25,STEP_UP,exact duplicate of P1M0128
+P1M0145,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,0-0.25(1/s) then stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0146,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,Bureau Step Up & Stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0147,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,0-0.5(1/s) then stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0148,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,Bureau Step Up & Stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0149,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,0-1(1/s) then stop,STEP_UNKNOWN,exact duplicate of P1M0148
+P1M0150,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,Bureau Step Up & Stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0151,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,0-2.5(1/s) then stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0152,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,Bureau Step Up & Stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0153,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,0-5(1/s) then stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0154,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx,Bureau Step Up & Stop,Bureau Step Up & Stop,STEP_UNKNOWN,"STEP_UNKNOWN: Bureau start-up-and-stop test, not a step-up/down (out of scope)"
+P1M0250,NOV18 UDEL ARESG2 DATA.xlsx,Steps,.1-->10,STEP_UP,exact duplicate of P1M0249
+P1M0263,UDEL Blood AUG18.xlsx,300 to 5,300 to 5,STEP_DOWN,exact duplicate of P1M0143
+P1M0264,UDEL Blood AUG18.xlsx,0.1 to 5,0.1 to 5,STEP_UP,exact duplicate of P1M0144
+P1M0355,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx,Step up Down 24hr,.1-->1 (1/s),STEP_UP,stress trace identical to P1M0354 although the shear rate differs (probable copy-paste error in the source workbook)

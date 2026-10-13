@@ -1,0 +1,13 @@
+feature,computable,magnitude_down,magnitude_up,direction,needs_stable_state,classification
+jump_signed,0.96,no,yes,no,True,reliable
+overshoot,0.96,no,yes,yes,True,reliable
+undershoot,0.96,yes,yes,yes,True,reliable
+init_slope,0.96,no,yes,yes,True,reliable
+settling_time,0.93,no,yes,yes,True,reliable
+t_peak,1.0,yes,no,no,False,reliable
+t_min,1.0,yes,no,yes,False,reliable
+area_log,0.96,no,no,yes,True,reliable
+relax_amp,0.96,no,yes,no,False,reliable
+visc_ratio,0.81,yes,yes,yes,False,reliable
+tau (single exponential),0.5,,,,,inconclusive
+"tau_lambda, G (ethixo-EVP, per workbook)",1.0,,,,,reliable
