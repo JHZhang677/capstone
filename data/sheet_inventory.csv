@@ -1,0 +1,97 @@
+sheet,sheet_type,rows,columns,nonempty_cells,numeric_cells,formula_cells,part1_core_scope,scope_note,source_file
+SS and SAOS,SS_SAOS,53,17,455,404,16,NO,Catalogued but not included in the Part 1 core long table,12FEB20 UDEL Blood.xlsx
+Steps,STEP_UP_DOWN,68,49,2686,2596,0,YES,Core LAOS/step-up/down raw time series,12FEB20 UDEL Blood.xlsx
+LAOS,LAOS,2008,67,102077,101958,0,YES,Core LAOS/step-up/down raw time series,12FEB20 UDEL Blood.xlsx
+UDLAOS,UDLAOS,998,67,18029,17910,0,NO,Catalogued but not included in the Part 1 core long table,12FEB20 UDEL Blood.xlsx
+Helton,OTHER_TRANSIENT,302,81,9304,5516,3644,NO,Catalogued but not included in the Part 1 core long table,12FEB20 UDEL Blood.xlsx
+SS & SAOS,SS_SAOS,32,13,241,207,16,NO,Catalogued but not included in the Part 1 core long table,14DEC_UDEL_Blood_Rheo.xlsx
+Step UpDown,STEP_UP_DOWN,68,40,2285,2210,0,YES,Core LAOS/step-up/down raw time series,14DEC_UDEL_Blood_Rheo.xlsx
+LAOS,LAOS,2008,47,72102,72018,0,YES,Core LAOS/step-up/down raw time series,14DEC_UDEL_Blood_Rheo.xlsx
+SS & SAOS,SS_SAOS,28,17,351,308,16,NO,Catalogued but not included in the Part 1 core long table,14MAR19 SS SAOS STEP LAOS etc.xlsx
+Steps,STEP_UP_DOWN,68,49,2686,2596,0,YES,Core LAOS/step-up/down raw time series,14MAR19 SS SAOS STEP LAOS etc.xlsx
+Helton,OTHER_TRANSIENT,301,39,5536,5466,0,NO,Catalogued but not included in the Part 1 core long table,14MAR19 SS SAOS STEP LAOS etc.xlsx
+LAOS,LAOS,2008,67,102077,101958,0,YES,Core LAOS/step-up/down raw time series,14MAR19 SS SAOS STEP LAOS etc.xlsx
+UDLAOS,UDLAOS,1507,67,58733,58614,0,NO,Catalogued but not included in the Part 1 core long table,14MAR19 SS SAOS STEP LAOS etc.xlsx
+reverse,REVERSAL,303,14,3625,3600,0,NO,Catalogued but not included in the Part 1 core long table,14MAR19 SS SAOS STEP LAOS etc.xlsx
+SS and SAOS,SS_SAOS,28,17,351,308,16,NO,Catalogued but not included in the Part 1 core long table,27FEB19 UDEL Blood.xlsx
+Steps,STEP_UP_DOWN,68,49,2686,2596,0,YES,Core LAOS/step-up/down raw time series,27FEB19 UDEL Blood.xlsx
+Helton,OTHER_TRANSIENT,542,54,11343,8444,2800,NO,Catalogued but not included in the Part 1 core long table,27FEB19 UDEL Blood.xlsx
+LAOS,LAOS,2009,67,102128,102009,0,YES,Core LAOS/step-up/down raw time series,27FEB19 UDEL Blood.xlsx
+UDLAOS,UDLAOS,1508,67,58784,58665,0,NO,Catalogued but not included in the Part 1 core long table,27FEB19 UDEL Blood.xlsx
+SS,SS_SAOS,28,18,351,308,16,NO,Catalogued but not included in the Part 1 core long table,9MAY19 UDEL Blood.xlsx
+Steps,STEP_UP_DOWN,68,49,2686,2596,0,YES,Core LAOS/step-up/down raw time series,9MAY19 UDEL Blood.xlsx
+LAOS,LAOS,2008,67,102077,101958,0,YES,Core LAOS/step-up/down raw time series,9MAY19 UDEL Blood.xlsx
+UDLAOS,UDLAOS,1507,66,40158,40071,0,NO,Catalogued but not included in the Part 1 core long table,9MAY19 UDEL Blood.xlsx
+SS SAOS,SS_SAOS,35,14,330,255,58,NO,Catalogued but not included in the Part 1 core long table,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx
+steps,STEP_UP_DOWN,68,73,2427,2340,0,YES,Core LAOS/step-up/down raw time series,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx
+Cessation,CESSATION,50,11,444,423,0,NO,Catalogued but not included in the Part 1 core long table,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx
+UDLAOS,UDLAOS,1507,44,12994,12958,0,NO,Catalogued but not included in the Part 1 core long table,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx
+LAOS,LAOS,2000,45,35976,35928,0,YES,Core LAOS/step-up/down raw time series,APR18 SS SAOS STEPS LAOS UDLAOS.xlsx
+Steady,SS_SAOS,17,3,51,48,0,NO,Catalogued but not included in the Part 1 core long table,AUG18 UDEL Blood.xlsx
+300 to 5,STEP_UP_DOWN,47,2,94,92,0,YES,Core LAOS/step-up/down raw time series,AUG18 UDEL Blood.xlsx
+0.1 to 5,STEP_UP_DOWN,54,2,108,106,0,YES,Core LAOS/step-up/down raw time series,AUG18 UDEL Blood.xlsx
+10 rads Amplitude Sweep,SS_SAOS,29,4,116,112,0,NO,Catalogued but not included in the Part 1 core long table,AUG18 UDEL Blood.xlsx
+10 strain Frequency Sweep,SS_SAOS,22,4,88,84,0,NO,Catalogued but not included in the Part 1 core long table,AUG18 UDEL Blood.xlsx
+LAB Data,ASPIRIN_SUMMARY,56,16,408,212,95,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor1 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor2 AY21,ASPIRIN_SUMMARY,38,11,128,85,35,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor3 AY21,ASPIRIN_SUMMARY,38,11,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor4 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor5 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor6 AY21,ASPIRIN_SUMMARY,38,4,145,69,69,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor7 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor8 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor9 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor10 AY21,ASPIRIN_SUMMARY,38,4,114,67,40,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+Donor11 AY21,ASPIRIN_SUMMARY,38,4,126,67,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021 (1).xlsx
+LAB Data,ASPIRIN_SUMMARY,59,16,419,212,106,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor1 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor2 AY21,ASPIRIN_SUMMARY,38,11,128,85,35,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor3 AY21,ASPIRIN_SUMMARY,38,11,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor4 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor5 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor6 AY21,ASPIRIN_SUMMARY,38,4,145,69,69,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor7 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor8 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor9 AY21,ASPIRIN_SUMMARY,38,4,127,68,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor10 AY21,ASPIRIN_SUMMARY,38,4,114,67,40,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+Donor11 AY21,ASPIRIN_SUMMARY,38,4,126,67,52,NO,Catalogued but not included in the Part 1 core long table,AY21 Aspirin Data to submit Mendeley 4May2021.xlsx
+SS & SAOS,SS_SAOS,29,25,457,372,48,NO,Catalogued but not included in the Part 1 core long table,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+Helton SAWTOOTH t0,OTHER_TRANSIENT,542,107,26718,15948,10572,NO,Catalogued but not included in the Part 1 core long table,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+Helton SAWTOOTH t8,OTHER_TRANSIENT,512,47,12998,7754,5156,NO,Catalogued but not included in the Part 1 core long table,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+SRFS,OTHER_TRANSIENT,273,55,11117,11019,0,NO,Catalogued but not included in the Part 1 core long table,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+Bureau Step Up & Stop,STEP_UP_DOWN,603,39,11672,11607,0,YES,Core LAOS/step-up/down raw time series,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+Step UP-Down,STEP_UP_DOWN,4189,49,19174,19084,0,YES,Core LAOS/step-up/down raw time series,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+LAOS t0,LAOS,2008,67,102083,101964,0,YES,Core LAOS/step-up/down raw time series,FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx
+SS & SAOS,SS_SAOS,28,15,301,216,62,NO,Catalogued but not included in the Part 1 core long table,JUL18.xlsx
+HELTON,OTHER_TRANSIENT,542,108,26718,15948,10572,NO,Catalogued but not included in the Part 1 core long table,JUL18.xlsx
+LAOS,LAOS,2009,79,126083,101988,23952,YES,Core LAOS/step-up/down raw time series,JUL18.xlsx
+STEP UP-DOWN,STEP_UP_DOWN,4189,69,20250,20124,0,YES,Core LAOS/step-up/down raw time series,JUL18.xlsx
+UDLAOS,UDLAOS,998,17,11970,11940,0,NO,Catalogued but not included in the Part 1 core long table,JUL18.xlsx
+Steady State & SAOS,SS_SAOS,29,19,354,294,32,NO,Catalogued but not included in the Part 1 core long table,JUN18.xlsx
+Helton,OTHER_TRANSIENT,542,108,28952,17353,11401,NO,Catalogued but not included in the Part 1 core long table,JUN18.xlsx
+Step Up Step Down,STEP_UP_DOWN,4189,69,20250,20124,0,YES,Core LAOS/step-up/down raw time series,JUN18.xlsx
+LAOS,LAOS,2008,73,110065,107946,1996,YES,Core LAOS/step-up/down raw time series,JUN18.xlsx
+reversal,REVERSAL,303,23,3279,3240,0,NO,Catalogued but not included in the Part 1 core long table,JUN18.xlsx
+Cessation ,CESSATION,50,34,1235,1175,0,NO,Catalogued but not included in the Part 1 core long table,JUN18.xlsx
+SRFS,OTHER_TRANSIENT,272,23,4884,4842,0,NO,Catalogued but not included in the Part 1 core long table,JUN18.xlsx
+UDLAOS,UDLAOS,1507,17,14006,13976,0,NO,Catalogued but not included in the Part 1 core long table,JUN18.xlsx
+ SS & SAOS,SS_SAOS,32,11,212,179,16,NO,Catalogued but not included in the Part 1 core long table,NOV18 UDEL ARESG2 DATA.xlsx
+Steps,STEP_UP_DOWN,68,34,1879,1816,0,YES,Core LAOS/step-up/down raw time series,NOV18 UDEL ARESG2 DATA.xlsx
+HELTON,OTHER_TRANSIENT,272,85,7770,4617,3048,NO,Catalogued but not included in the Part 1 core long table,NOV18 UDEL ARESG2 DATA.xlsx
+LAOS,LAOS,2008,47,72102,72018,0,YES,Core LAOS/step-up/down raw time series,NOV18 UDEL ARESG2 DATA.xlsx
+Steady,SS_SAOS,17,2,34,32,0,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood AUG18.xlsx
+300 to 5,STEP_UP_DOWN,47,2,94,92,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood AUG18.xlsx
+0.1 to 5,STEP_UP_DOWN,54,2,108,106,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood AUG18.xlsx
+10 rads Amplitude Sweep,SS_SAOS,29,4,116,112,0,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood AUG18.xlsx
+10 strain Frequency Sweep,SS_SAOS,22,4,88,84,0,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood AUG18.xlsx
+SS SAOS,SS_SAOS,29,46,881,760,48,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+LAOS t0,LAOS,2008,67,102077,101958,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+LAOS t12,LAOS,2008,67,102077,101958,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+LAOS t24,LAOS,2008,67,102077,101958,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+Step up Down t0,STEP_UP_DOWN,4189,68,15191,15093,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+Step up Down t12,STEP_UP_DOWN,4189,68,15191,15093,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+Step up Down 24hr,STEP_UP_DOWN,4189,68,15191,15093,0,YES,Core LAOS/step-up/down raw time series,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+helton t0,OTHER_TRANSIENT,331,103,6534,6450,0,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+Helton t12,OTHER_TRANSIENT,331,63,6527,6450,0,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
+Helton t24,OTHER_TRANSIENT,331,63,6527,6450,0,NO,Catalogued but not included in the Part 1 core long table,UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx
