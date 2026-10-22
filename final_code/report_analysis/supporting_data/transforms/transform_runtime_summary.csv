@@ -1,0 +1,9 @@
+method,measurement_type,record_count,median_runtime_seconds,p95_runtime_seconds,median_uniform_samples,signal_length_requirement,online_or_near_real_time_note
+FFT,LAOS,181,0.00018987499970535282,0.00026116699882550165,629.0,At least 16 samples for the current shared feature implementation,Fast after a complete analysis window; cycle completion is required for final LAOS features.
+FFT,STEP_UP_DOWN,142,0.00010762549936771393,0.00014214939992598374,19.0,At least 16 samples for the current shared feature implementation,Fast after a complete analysis window; cycle completion is required for final LAOS features.
+STFT,LAOS,181,0.00019062499995925464,0.00023387500004901085,629.0,At least 16 samples for the current shared feature implementation,Streamable with fixed-window latency; frame size determines temporal delay.
+STFT,STEP_UP_DOWN,142,0.00015660400094930083,0.00020416395027496022,19.0,At least 16 samples for the current shared feature implementation,Streamable with fixed-window latency; frame size determines temporal delay.
+CWT,LAOS,181,0.003493958000035491,0.009107749998293002,629.0,At least 16 samples for the current shared feature implementation,Near-real-time is plausible with scale-dependent latency and edge handling.
+CWT,STEP_UP_DOWN,142,0.0008446039992122678,0.0011005999986082311,19.0,At least 16 samples for the current shared feature implementation,Near-real-time is plausible with scale-dependent latency and edge handling.
+DWT,LAOS,181,0.00016620899987174198,0.00020758400023623835,629.0,At least 16 samples for the current shared feature implementation,Fast block processing; streaming use requires a defined block and boundary policy.
+DWT,STEP_UP_DOWN,142,2.047949965344742e-05,4.0023249403020594e-05,19.0,At least 16 samples for the current shared feature implementation,Fast block processing; streaming use requires a defined block and boundary policy.

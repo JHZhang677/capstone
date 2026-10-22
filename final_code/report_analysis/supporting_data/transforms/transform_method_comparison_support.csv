@@ -1,0 +1,13 @@
+method,measurement_type,analysis_window,computed_measurements,computed_with_frequency_limit,insufficient_edge_support_measurements,insufficient_frequency_support_measurements
+CWT,LAOS,laos_final_two_cycles,181,0,0,0
+CWT,STEP_UP_DOWN,step_full_response_high_resolution_only,6,0,0,0
+CWT,STEP_UP_DOWN,step_transient_settled_to_2s,0,0,136,0
+DWT,LAOS,laos_final_two_cycles,181,0,0,0
+DWT,STEP_UP_DOWN,step_full_response_high_resolution_only,6,0,0,0
+DWT,STEP_UP_DOWN,step_transient_settled_to_2s,6,0,0,130
+FFT,LAOS,laos_final_two_cycles,0,181,0,0
+FFT,STEP_UP_DOWN,step_full_response_high_resolution_only,0,6,0,0
+FFT,STEP_UP_DOWN,step_transient_settled_to_2s,0,136,0,0
+STFT,LAOS,laos_final_two_cycles,0,181,0,0
+STFT,STEP_UP_DOWN,step_full_response_high_resolution_only,0,6,0,0
+STFT,STEP_UP_DOWN,step_transient_settled_to_2s,0,136,0,0

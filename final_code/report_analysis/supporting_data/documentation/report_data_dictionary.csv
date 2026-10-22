@@ -1,0 +1,29 @@
+table,field,type,unit,definition
+Signal/index,measurement_id,text,--,Unique block key; joins signal observations and measurement index. Required.
+Signal/index,source_file; sheet,text,--,Original workbook and worksheet names. Required; not a donor identifier.
+Signal,source_row,integer,row,Original worksheet row; preserves observation provenance.
+Index,source_header_row; source_start_column,integer,row/column,Location of the extracted block in the source worksheet.
+Signal,time_s,float,s,Elapsed block time. Finite observations retained; ordering/duplicates checked.
+Signal,stress_pa,float,Pa,Measured shear stress. Required for extraction; missing stress is never zero-filled.
+Signal,strain_pct,float,percent,"Measured strain, when supplied. Missing if absent or unusable."
+Signal,shear_rate_1_s,float,s$^{-1}$,"Measured rate, when supplied; missing channel remains missing."
+Signal/index,experiment_type; experiment_subtype,category,--,"LAOS or STEP_UP_DOWN; subtypes LAOS, STEP_UP, STEP_DOWN, STEP_UNKNOWN."
+Signal/index,condition_label,text,--,"Original test label, retained even when it conflicts with a measured channel."
+Index,strain_amplitude_label_fraction; strain_amplitude_label_pct,float,fraction / percent,Parsed amplitude; percent = 100 times fraction. Missing when not identified.
+LAOS,omega_label_rad_s,float,rad s$^{-1}$,Nominal angular frequency. A valid frequency and amplitude are required for the LAOS cohort.
+Index,n_points; duration_s,integer / float,count / s,Aligned observation count and last-minus-first timestamp.
+Index,sampling_rate_hz,float,Hz,"Inverse median positive time interval; a summary, not evidence of uniform sampling."
+Signal/index,qc_flag; QC status,text/category,--,Quality-control information or review status. Flags do not automatically remove a record.
+Index,duplicate_of_measurement_id,text,--,First matching trace ID; blank when no exact duplicate was identified.
+Step,step_id; workbook; sample,text,--,"Block key and workbook labels. In ARM-STEP, step_id uses the shared measurement ID; sample is not a verified donor ID."
+Step,storage_h,float,h,Storage condition parsed from sheet label; zero is also the parser default when no tag is present.
+Step,rate_from; rate_to,float,s$^{-1}$,Initial/final analysis rates after measured-channel checks; labels supply missing rates.
+Step,qc_rate,category,--,Rate-label agreement status. Mismatch records remain descriptive but are excluded from inference.
+Step,t_rate_settle,float,s,End of operational instrument exclusion; minimum 0.05 s.
+Step,n_transient; n_stable,integer,count,Observations in the two analysis windows. At least three are required for window descriptors.
+Step,sigma_stable,float,Pa,Median late-window reference stress. Missing when no late observations exist; does not itself certify stability.
+Step,stable_drift_Pa; stable_drift_frac,float,Pa / fraction,"Fitted late-window drift and its magnitude divided by max(abs(reference), 0.001 Pa)."
+Step,stable_ok,Boolean,true/false,True when finite drift satisfies the relative or absolute tolerance in Appendix B.
+Synthetic,scenario; replicate/run ID,text/integer,--,Join keys in the dataset manifest and separate reference-label table.
+Synthetic,time; measured stress; strain; rate,float,s; Pa; fraction; s$^{-1}$,Observed simulator channels. Exact column names and units are supplied in the synthetic feature dictionary.
+Synthetic truth,programmed event time; progress state,float,s / fraction,Reference labels stored separately from detector inputs; the event is q = 0.5.

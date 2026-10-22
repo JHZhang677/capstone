@@ -1,0 +1,15 @@
+feature_or_metric,definition,interpretation
+TimeDomain_RMS,Log stress RMS in the shared window,Baseline signal magnitude change.
+FFT_Band_Power,Log Hann-windowed broad-band Fourier energy,Global Fourier energy-change baseline.
+FFT_Multitone_Change,Per-tone and supported-harmonic Fourier power channels,Frequency-specific global spectra summarized with the shared multichannel change score.
+FFT_H3_over_H1,Log third-to-first harmonic ratio,Secondary nonlinear-response descriptor; excluded from primary timing ranks because third-harmonic injection is part of the simulator.
+STFT_Multitone_Change,Per-tone and harmonic short-time Fourier power channels,Localized frequency-energy changes summarized with the shared score.
+CWT family outputs,Log coefficient energy retained separately by matched frequency scale,Time-localized scale-energy changes; actual drive frequencies plus supported harmonics.
+DWT family outputs,Log detail-coefficient energy retained by decomposition level,Multiresolution changes by level; symmetric boundary extension.
+fCWT_library,Log coefficient power at closest returned frequency channels,Optional external fast CWT; unavailable or failed runs are explicitly marked.
+Fourier_Winter_Chambon,"Negative operational mismatch of fitted slopes, phase spread, and power-law fits",Criterion-aligned positive control; excluded from primary ranking because the synthetic truth uses this condition.
+Fourier_Gprime_Gdoubleprime_Crossover,Negative absolute log ratio of G′ and G″ at the lowest shared frequency,Secondary rheological comparator; not the primary truth definition.
+ROC AUC and average precision,Window-score discrimination for labels within ±30 s of T_GP,Secondary localization metrics on overlapping windows; not gel-time error or classifier accuracy.
+Stress RMS amplitude error and SNR,Differences between known clean simulated stress and measured stress/noise,Simulator signal-fidelity audits; not observable clinical measurements.
+Runtime,"Median feature extraction and detector time per run, in ms",Environment-dependent; compare methods on the same machine and software stack.
+Spearman rho,Rank association between predicted and true gel time,Ordering only; not agreement or calibration.

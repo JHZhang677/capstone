@@ -1,0 +1,5 @@
+method,measurement_count,supported_record_count,unsupported_record_count,method_support_status
+CWT,136,0,136,insufficient_edge_support
+DWT,136,6,130,computed; insufficient_frequency_support
+FFT,136,136,0,computed_with_observed_frequency_limit
+STFT,136,136,0,computed_with_observed_frequency_limit

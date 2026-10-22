@@ -1,0 +1,2 @@
+comparison,independent_workbook_count,method_count,friedman_statistic,friedman_p_value,kendall_w_effect_size,nemenyi_alpha,nemenyi_critical_difference
+Four transform entropy features across source workbooks,10,4,22.299999999999994,5.649585285996701e-05,0.7433333333333331,0.05,1.4832311854364133

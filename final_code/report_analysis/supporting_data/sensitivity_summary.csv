@@ -1,0 +1,15 @@
+metric,comparison,median_absolute_percent_change,p90_absolute_percent_change
+G_prime_Pa,all_available_vs_primary,3.3060614430438657,13.575161179474996
+G_prime_Pa,last2_detrended_vs_primary,163.67164549144383,3374.754055409172
+G_double_prime_Pa,all_available_vs_primary,0.7486053608522936,4.784789243994238
+G_double_prime_Pa,last2_detrended_vs_primary,10.80093801437012,11.925027403272006
+phase_angle_deg,all_available_vs_primary,0.145430215870107,4.643021606404059
+phase_angle_deg,last2_detrended_vs_primary,8.353482712966278,11.091744431615469
+I3_I1,all_available_vs_primary,4.680685314716248,41.217790114889965
+I3_I1,last2_detrended_vs_primary,40.82258465959537,89.86869772777072
+I5_I1,all_available_vs_primary,9.645710485734645,140.5135643321314
+I5_I1,last2_detrended_vs_primary,110.74116812527386,440.3474863057033
+THD_2to5,all_available_vs_primary,3.8130328072158264,40.44296497067072
+THD_2to5,last2_detrended_vs_primary,81.83515697839462,283.02843682446735
+lissajous_normalized_area,all_available_vs_primary,0.0,0.0
+lissajous_normalized_area,last2_detrended_vs_primary,3.8265969835002607,8.365208221712823

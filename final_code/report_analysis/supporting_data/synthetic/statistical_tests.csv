@@ -1,0 +1,17 @@
+test,method_a,method_b,statistic,raw_p_value,holm_adjusted_p_value,scenario_blocks
+Friedman omnibus,,,40.570451183432006,0.0003717205441729109,,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,CWT_DOG_m2,19.0,0.0036921142984261686,0.05538171447639253,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,CWT_DOG_m4,32.0,0.03490124675258716,0.3839137142784588,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,CWT_Morlet_Convolution,23.5,0.06629585915381533,0.596662732384338,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,CWT_Morlet_Custom,39.0,0.23108894356141862,1.0,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,CWT_Morlet_FFT,23.5,0.06629585915381533,0.596662732384338,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,CWT_Paul_m4,34.0,0.0759333026198021,0.596662732384338,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,DWT_coif3,48.0,0.17607764588738206,1.0,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,DWT_db4,43.0,0.194609995144282,1.0,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,DWT_sym4,53.0,0.43642933416177765,1.0,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,FFT_Multitone_Change,19.0,0.006460060601651857,0.090440848423126,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,PELT_TimeDomain_RMS,20.0,0.04122683333716368,0.4122683333716368,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,STFT_Band_Power,30.0,0.014199438426255762,0.1845926995413249,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,STFT_Multitone_Change,60.5,0.27420283493504594,1.0,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,TimeDomain_RMS,30.0,0.014199438426255762,0.1845926995413249,20
+Wilcoxon versus FFT_Band_Power,FFT_Band_Power,fCWT_library,44.0,0.21452526545009087,1.0,20

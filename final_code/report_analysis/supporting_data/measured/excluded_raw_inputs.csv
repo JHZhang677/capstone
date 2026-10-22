@@ -1,0 +1,3 @@
+filename,size_bytes,handling
+DataZ.xlsx,41526072,excluded by design; separate DataZ dataset
+~$data1.xlsx,165,ignored; temporary Excel lock file

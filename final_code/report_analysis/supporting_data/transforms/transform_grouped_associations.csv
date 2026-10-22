@@ -1,0 +1,50 @@
+measurement_type,feature_name,grouping_unit,independent_group_count,median_spearman_rho,positive_group_fraction,negative_group_fraction,two_sided_sign_consistency_p,interpretation_note
+LAOS,G_double_prime_Pa,source workbook,10,-0.6132939335036534,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,G_prime_Pa,source workbook,10,-0.8258004323115844,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,I3_I1,source workbook,10,0.25397004075415397,1.0,0.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,I5_I1,source workbook,10,0.6816221592902597,1.0,0.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,THD_2to5,source workbook,10,0.2764910168645156,0.9,0.1,0.021484375,Within-workbook association; not a predictive validation score.
+LAOS,cwt__coefficient_peak_time_s,source workbook,10,0.0018715460168870018,0.5,0.5,1.0,Within-workbook association; not a predictive validation score.
+LAOS,cwt__dominant_scale_frequency_hz,source workbook,9,-0.11188375949957848,0.1111111111111111,0.7777777777777778,0.1796875,Within-workbook association; not a predictive validation score.
+LAOS,cwt__high_frequency_relative_energy,source workbook,10,0.33274087193040003,0.9,0.1,0.021484375,Within-workbook association; not a predictive validation score.
+LAOS,cwt__high_frequency_scale_decay_slope_per_s,source workbook,10,0.1275486908556332,0.8,0.2,0.109375,Within-workbook association; not a predictive validation score.
+LAOS,cwt__high_to_low_frequency_energy_ratio,source workbook,10,0.33274087193040003,0.9,0.1,0.021484375,Within-workbook association; not a predictive validation score.
+LAOS,cwt__valid_coefficient_fraction,source workbook,9,0.11188375949957848,0.7777777777777778,0.1111111111111111,0.1796875,Within-workbook association; not a predictive validation score.
+LAOS,cwt__wavelet_energy_entropy_normalised,source workbook,10,0.33398244234805075,0.9,0.1,0.021484375,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_coefficient_peak_time_s,source workbook,10,0.20844946265968178,1.0,0.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_energy_entropy_normalised,source workbook,10,-0.492251051223049,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_frequency_support_limit_hz,source workbook,10,-0.2152238255054431,0.2,0.8,0.109375,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_high_to_low_frequency_energy_ratio,source workbook,9,-0.942857142857143,0.0,1.0,0.00390625,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_relative_energy_level_1,source workbook,10,-0.944835087832218,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_relative_energy_level_2,source workbook,10,-0.8912830657153941,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_relative_energy_level_3,source workbook,10,-0.5580859027340105,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_relative_energy_level_4,source workbook,10,-0.1441634829288987,0.2,0.8,0.109375,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_relative_energy_level_5,source workbook,10,-0.07721516245602791,0.3,0.6,0.75390625,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_relative_energy_level_6,source workbook,10,-0.25748827432815363,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,dwt__dwt_supported_level_count,source workbook,9,0.06363908622235485,0.7777777777777778,0.1111111111111111,0.1796875,Within-workbook association; not a predictive validation score.
+LAOS,fft__dominant_frequency_hz,source workbook,9,-0.11188375949957848,0.1111111111111111,0.7777777777777778,0.1796875,Within-workbook association; not a predictive validation score.
+LAOS,fft__fifth_harmonic_energy_fraction,source workbook,10,0.5536264121902819,0.9,0.1,0.021484375,Within-workbook association; not a predictive validation score.
+LAOS,fft__harmonic_energy_fraction_1_3_5,source workbook,10,0.20117097269473433,1.0,0.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,fft__high_to_low_frequency_energy_ratio,source workbook,10,-0.7672687280018293,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,fft__spectral_entropy_normalised,source workbook,10,-0.48840049531131724,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,fft__third_harmonic_energy_fraction,source workbook,10,0.05883160489023126,0.6,0.4,0.75390625,Within-workbook association; not a predictive validation score.
+LAOS,lissajous_normalized_area,source workbook,10,0.82207431471112,1.0,0.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,phase_angle_deg,source workbook,10,0.9147213410578793,1.0,0.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,stft__coefficient_peak_time_s,source workbook,10,-0.2687578151306364,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,stft__frame_energy_coefficient_of_variation,source workbook,10,-0.45193858784723673,0.0,1.0,0.001953125,Within-workbook association; not a predictive validation score.
+LAOS,stft__mean_spectral_entropy_normalised,source workbook,10,-0.20673496171531253,0.3,0.7,0.34375,Within-workbook association; not a predictive validation score.
+STEP_UP_DOWN,area_log,source workbook and direction,15,0.0,0.4666666666666667,0.4666666666666667,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,cwt__valid_coefficient_fraction,source workbook and direction,12,-0.5378528742004772,0.3333333333333333,0.6666666666666666,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,dwt__dwt_frequency_support_limit_hz,source workbook and direction,15,0.21428571428571433,0.6,0.3333333333333333,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,dwt__dwt_supported_level_count,source workbook and direction,4,0.35355339059327373,1.0,0.0,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,fft__dominant_frequency_hz,source workbook and direction,13,0.40089186286863665,0.6153846153846154,0.3076923076923077,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,fft__high_to_low_frequency_energy_ratio,source workbook and direction,15,-0.1785714285714286,0.26666666666666666,0.6666666666666666,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,fft__spectral_entropy_normalised,source workbook and direction,15,-0.09999999999999999,0.3333333333333333,0.6,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,init_slope,source workbook and direction,15,-0.5428571428571429,0.06666666666666667,0.8666666666666667,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,settling_time,source workbook and direction,14,-0.12142857142857144,0.42857142857142855,0.5714285714285714,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,stft__coefficient_peak_time_s,source workbook and direction,15,0.09999999999999999,0.5333333333333333,0.4,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,stft__frame_energy_coefficient_of_variation,source workbook and direction,15,-0.39999999999999997,0.4666666666666667,0.5333333333333333,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,stft__mean_spectral_entropy_normalised,source workbook and direction,15,-0.09999999999999999,0.4666666666666667,0.5333333333333333,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,t_min,source workbook and direction,15,0.42857142857142866,0.9333333333333333,0.06666666666666667,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,t_peak,source workbook and direction,15,0.3,0.6666666666666666,0.26666666666666666,,Exploratory magnitude association; grouped sample count is limited.
+STEP_UP_DOWN,undershoot,source workbook and direction,15,0.8999999999999998,0.6666666666666666,0.3333333333333333,,Exploratory magnitude association; grouped sample count is limited.

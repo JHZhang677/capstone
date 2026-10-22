@@ -1,0 +1,76 @@
+{
+  "original_files": 12387,
+  "mapped_code_data_paths": 12127,
+  "unique_files_copied": 11713,
+  "code_paths": 115,
+  "code_unique": 105,
+  "exact_duplicate_paths": 414,
+  "unique_bytes": 4410031516,
+  "excluded_paths": 260,
+  "families": {
+    "armstrong_reference_workbooks": {
+      "unique_files": 16,
+      "bytes": 58197572
+    },
+    "published_clot_context": {
+      "unique_files": 1347,
+      "bytes": 996717890
+    },
+    "other_code_history": {
+      "unique_files": 11,
+      "bytes": 19884249
+    },
+    "external_rheology_monitoring": {
+      "unique_files": 58,
+      "bytes": 51124840
+    },
+    "blood_analysis_saved_results": {
+      "unique_files": 109,
+      "bytes": 11988677
+    },
+    "blood_model_prototypes": {
+      "unique_files": 20,
+      "bytes": 3737956
+    },
+    "synthetic_rheology_ten_scenarios": {
+      "unique_files": 50,
+      "bytes": 253631377
+    },
+    "shared_ingestion_and_step_138": {
+      "unique_files": 31,
+      "bytes": 59598356
+    },
+    "conventional_laos": {
+      "unique_files": 29,
+      "bytes": 1222743
+    },
+    "step_analysis_separate_branch": {
+      "unique_files": 14,
+      "bytes": 1302251
+    },
+    "gel_scope_experiments": {
+      "unique_files": 1,
+      "bytes": 2957732
+    },
+    "earlier_step_handover": {
+      "unique_files": 6,
+      "bytes": 9383027
+    },
+    "previous_semester_rheology": {
+      "unique_files": 9936,
+      "bytes": 1846417987
+    },
+    "early_gel_detection": {
+      "unique_files": 5,
+      "bytes": 174009133
+    },
+    "synthetic_clot_event_benchmarks": {
+      "unique_files": 80,
+      "bytes": 919857726
+    }
+  },
+  "copy_mismatches": [],
+  "schema_entries": 799,
+  "notebook_execution": "Not performed for repository packaging",
+  "remote_upload": "Not performed"
+}

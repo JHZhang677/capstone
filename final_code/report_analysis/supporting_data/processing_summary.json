@@ -1,0 +1,13 @@
+{
+  "files": 15,
+  "sheets": 96,
+  "laos_measurements": 200,
+  "step_up_measurements": 74,
+  "step_down_measurements": 73,
+  "step_unknown_measurements": 10,
+  "measurements_total": 357,
+  "unique_signal_traces": 347,
+  "standardized_signal_rows": 437956,
+  "measurements_for_review": 21,
+  "excluded_or_catalog_only_records": 66
+}

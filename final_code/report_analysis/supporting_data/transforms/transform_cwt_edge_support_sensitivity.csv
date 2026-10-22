@@ -1,0 +1,10 @@
+measurement_type,analysis_window,minimum_valid_coefficient_fraction,measurement_count,measurements_passing_edge_support,median_valid_coefficient_fraction
+LAOS,laos_final_two_cycles,0.25,181,181,0.33917925278219396
+LAOS,laos_final_two_cycles,0.5,181,0,0.33917925278219396
+LAOS,laos_final_two_cycles,0.75,181,0,0.33917925278219396
+STEP_UP_DOWN,step_full_response_high_resolution_only,0.25,6,6,0.6697099332220368
+STEP_UP_DOWN,step_full_response_high_resolution_only,0.5,6,6,0.6697099332220368
+STEP_UP_DOWN,step_full_response_high_resolution_only,0.75,6,0,0.6697099332220368
+STEP_UP_DOWN,step_transient_settled_to_2s,0.25,136,0,0.044407894736842105
+STEP_UP_DOWN,step_transient_settled_to_2s,0.5,136,0,0.044407894736842105
+STEP_UP_DOWN,step_transient_settled_to_2s,0.75,136,0,0.044407894736842105

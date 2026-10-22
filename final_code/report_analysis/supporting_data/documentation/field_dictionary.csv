@@ -1,0 +1,17 @@
+table,column,definition,units_or_values
+measurement_index,measurement_id,Unique ID assigned to one detected measurement block,text
+measurement_index,experiment_type,Core protocol class,LAOS or STEP_UP_DOWN
+measurement_index,experiment_subtype,Detailed protocol class,"LAOS, STEP_UP, STEP_DOWN, STEP_UNKNOWN"
+measurement_index,n_points,Aligned numeric time/stress rows in the block,count
+measurement_index,duration_s,Last time minus first time,s
+measurement_index,sampling_rate_hz,Inverse median positive time interval,Hz
+measurement_index,strain_amplitude_label_fraction,Dimensionless LAOS gamma from source label,fraction
+measurement_index,strain_amplitude_label_pct,LAOS gamma converted to percent,%
+measurement_index,step_direction,Direction from source label or measured rate,"UP, DOWN, blank"
+measurement_index,duplicate_of_measurement_id,First ID with identical numeric trace,text or blank
+standardized_signals,source_row,Original worksheet row number,row number
+standardized_signals,time_s,Elapsed time,s
+standardized_signals,stress_pa,Measured shear stress,Pa
+standardized_signals,strain_pct,Measured strain where available,%
+standardized_signals,shear_rate_1_s,Measured shear rate where available,1/s
+standardized_signals,qc_flag,Row-level quality flag; values are retained,text or blank

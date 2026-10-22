@@ -254,3 +254,7 @@ This guideline ensures:
 
 All team members should follow these rules throughout the project.
 
+
+## Team analysis and dataset handover
+
+See [the handover guide](doc/project_handover/README.md) for the corrected analysis, preserved historical versions, descriptive dataset names, dictionaries and source-to-file mapping. Datasets in this addition use Git LFS; run `git lfs pull` after cloning. The earlier repository files remain in place.

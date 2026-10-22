@@ -1,0 +1,3 @@
+measurement_id,source_file,sheet,condition_label,n_points,has_shear_rate,qc_status,qc_notes,cohort_note
+P1M0143,AUG18 UDEL Blood.xlsx,300 to 5,300 to 5,46,NO,OK,Irregular sampling (dt CV > 0.10); Shear-rate channel unavailable; direction relies on label,Present in 138-row shared table; absent from 136-row raw-workbook comparison
+P1M0144,AUG18 UDEL Blood.xlsx,0.1 to 5,0.1 to 5,53,NO,OK,Irregular sampling (dt CV > 0.10); Shear-rate channel unavailable; direction relies on label,Present in 138-row shared table; absent from 136-row raw-workbook comparison

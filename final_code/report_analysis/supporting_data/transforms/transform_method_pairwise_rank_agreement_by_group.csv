@@ -1,0 +1,119 @@
+cohort,feature_concept,method_pair,grouping_unit,group_label,paired_measurement_count,within_group_spearman_rho
+LAOS,Entropy,FFT vs STFT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,0.8455882352941178
+LAOS,Entropy,FFT vs STFT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,0.7622377622377624
+LAOS,Entropy,FFT vs STFT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.9215686274509804
+LAOS,Entropy,FFT vs STFT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,0.9264705882352943
+LAOS,Entropy,FFT vs STFT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,-0.7142857142857143
+LAOS,Entropy,FFT vs STFT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,0.8848039215686275
+LAOS,Entropy,FFT vs STFT,workbook,"('JUL18.xlsx',)",17,0.928921568627451
+LAOS,Entropy,FFT vs STFT,workbook,"('JUN18.xlsx',)",16,0.911764705882353
+LAOS,Entropy,FFT vs STFT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,0.6818181818181819
+LAOS,Entropy,FFT vs STFT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,0.9025339366515838
+LAOS,Entropy,FFT vs CWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,-0.7965686274509804
+LAOS,Entropy,FFT vs CWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,-0.4545454545454546
+LAOS,Entropy,FFT vs CWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.42156862745098045
+LAOS,Entropy,FFT vs CWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,-0.7156862745098039
+LAOS,Entropy,FFT vs CWT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,-0.48571428571428577
+LAOS,Entropy,FFT vs CWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,-0.5661764705882354
+LAOS,Entropy,FFT vs CWT,workbook,"('JUL18.xlsx',)",17,-0.7205882352941178
+LAOS,Entropy,FFT vs CWT,workbook,"('JUN18.xlsx',)",16,-0.6588235294117648
+LAOS,Entropy,FFT vs CWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,-0.41818181818181827
+LAOS,Entropy,FFT vs CWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,-0.6966515837104073
+LAOS,Entropy,FFT vs DWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,0.9460784313725492
+LAOS,Entropy,FFT vs DWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,1.0
+LAOS,Entropy,FFT vs DWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.9632352941176472
+LAOS,Entropy,FFT vs DWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,0.9607843137254902
+LAOS,Entropy,FFT vs DWT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,0.942857142857143
+LAOS,Entropy,FFT vs DWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,0.9681372549019608
+LAOS,Entropy,FFT vs DWT,workbook,"('JUL18.xlsx',)",17,0.9926470588235295
+LAOS,Entropy,FFT vs DWT,workbook,"('JUN18.xlsx',)",16,0.9911764705882352
+LAOS,Entropy,FFT vs DWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,0.990909090909091
+LAOS,Entropy,FFT vs DWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,0.9668778280542987
+LAOS,Entropy,STFT vs CWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,-0.7573529411764707
+LAOS,Entropy,STFT vs CWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,-0.5664335664335665
+LAOS,Entropy,STFT vs CWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.19117647058823534
+LAOS,Entropy,STFT vs CWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,-0.7769607843137256
+LAOS,Entropy,STFT vs CWT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,0.8857142857142858
+LAOS,Entropy,STFT vs CWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,-0.38970588235294124
+LAOS,Entropy,STFT vs CWT,workbook,"('JUL18.xlsx',)",17,-0.7450980392156863
+LAOS,Entropy,STFT vs CWT,workbook,"('JUN18.xlsx',)",16,-0.6705882352941177
+LAOS,Entropy,STFT vs CWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,-0.33636363636363636
+LAOS,Entropy,STFT vs CWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,-0.7244343891402714
+LAOS,Entropy,STFT vs DWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,0.7769607843137256
+LAOS,Entropy,STFT vs DWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,0.7622377622377624
+LAOS,Entropy,STFT vs DWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.9583333333333335
+LAOS,Entropy,STFT vs DWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,0.877450980392157
+LAOS,Entropy,STFT vs DWT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,-0.8285714285714287
+LAOS,Entropy,STFT vs DWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,0.8946078431372549
+LAOS,Entropy,STFT vs DWT,workbook,"('JUL18.xlsx',)",17,0.9215686274509804
+LAOS,Entropy,STFT vs DWT,workbook,"('JUN18.xlsx',)",16,0.9205882352941176
+LAOS,Entropy,STFT vs DWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,0.6636363636363638
+LAOS,Entropy,STFT vs DWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,0.8766515837104072
+LAOS,Entropy,CWT vs DWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,-0.8553921568627452
+LAOS,Entropy,CWT vs DWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,-0.4545454545454546
+LAOS,Entropy,CWT vs DWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.2916666666666667
+LAOS,Entropy,CWT vs DWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,-0.7549019607843138
+LAOS,Entropy,CWT vs DWT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,-0.6
+LAOS,Entropy,CWT vs DWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,-0.5980392156862745
+LAOS,Entropy,CWT vs DWT,workbook,"('JUL18.xlsx',)",17,-0.7377450980392158
+LAOS,Entropy,CWT vs DWT,workbook,"('JUN18.xlsx',)",16,-0.7000000000000001
+LAOS,Entropy,CWT vs DWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,-0.43636363636363645
+LAOS,Entropy,CWT vs DWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,-0.7355656108597284
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",17,-0.12500000000000003
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",12,0.02097902097902098
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",17,0.6544117647058824
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",17,0.02450980392156863
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx',)",6,-0.48571428571428577
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",17,0.1519607843137255
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('JUL18.xlsx',)",17,0.06127450980392158
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('JUN18.xlsx',)",16,-0.032352941176470584
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",11,-0.06363636363636364
+LAOS,High-to-low energy,FFT vs CWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",51,0.2593665158371041
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",6,0.942857142857143
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('JUL18.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('JUN18.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,FFT vs DWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",18,0.8390092879256965
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('12FEB20 UDEL Blood.xlsx',)",6,0.14285714285714288
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('14DEC_UDEL_Blood_Rheo.xlsx',)",6,0.2571428571428572
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('14MAR19 SS SAOS STEP LAOS etc.xlsx',)",6,0.8857142857142858
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('27FEB19 UDEL Blood.xlsx',)",6,0.2571428571428572
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx',)",6,-0.08571428571428573
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('JUL18.xlsx',)",6,0.2571428571428572
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('JUN18.xlsx',)",6,0.14285714285714288
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('NOV18 UDEL ARESG2 DATA.xlsx',)",6,0.2571428571428572
+LAOS,High-to-low energy,CWT vs DWT,workbook,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx',)",18,0.16821465428276572
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('12FEB20 UDEL Blood.xlsx', 'down')",7,0.0
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('14DEC_UDEL_Blood_Rheo.xlsx', 'down')",4,1.0
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('14MAR19 SS SAOS STEP LAOS etc.xlsx', 'down')",7,-0.03571428571428572
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('27FEB19 UDEL Blood.xlsx', 'down')",7,0.14285714285714288
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('9MAY19 UDEL Blood.xlsx', 'down')",6,-0.3714285714285715
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx', 'up')",4,1.0
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx', 'down')",5,0.8999999999999998
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx', 'up')",5,0.6
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('JUL18.xlsx', 'down')",5,0.3
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('JUL18.xlsx', 'up')",9,0.43333333333333335
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('JUN18.xlsx', 'down')",5,0.9999999999999999
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('JUN18.xlsx', 'up')",9,0.5833333333333334
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('NOV18 UDEL ARESG2 DATA.xlsx', 'down')",5,-0.19999999999999998
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx', 'down')",15,0.7249999999999999
+Step transient,Entropy,FFT vs STFT,workbook / direction,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx', 'up')",26,0.6246153846153845
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('12FEB20 UDEL Blood.xlsx', 'down')",7,0.8214285714285715
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('14DEC_UDEL_Blood_Rheo.xlsx', 'down')",4,-0.7999999999999999
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('14MAR19 SS SAOS STEP LAOS etc.xlsx', 'down')",7,0.21428571428571433
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('27FEB19 UDEL Blood.xlsx', 'down')",7,0.25
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('9MAY19 UDEL Blood.xlsx', 'down')",6,0.2571428571428572
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('APR18 SS SAOS STEPS LAOS UDLAOS.xlsx', 'up')",4,-0.7999999999999999
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx', 'down')",5,0.7999999999999999
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('FEB18 UDEL ARES G2 SS LAOS SAW STEP UP DATA.xlsx', 'up')",5,-0.09999999999999999
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('JUL18.xlsx', 'down')",5,0.8999999999999998
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('JUL18.xlsx', 'up')",9,0.33333333333333337
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('JUN18.xlsx', 'down')",5,0.9999999999999999
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('JUN18.xlsx', 'up')",9,0.38333333333333336
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('NOV18 UDEL ARESG2 DATA.xlsx', 'down')",5,0.6
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx', 'down')",15,0.5392857142857141
+Step transient,High-to-low energy,FFT vs STFT,workbook / direction,"('UDEL Blood DEC17 SS SAOS LAOS STEPS RAMPS HELTON.xlsx', 'up')",26,-0.07623931623931623

@@ -1,0 +1,8 @@
+metric,previous_status,reviewed_status,reason
+G_prime_Pa,VALID,Matched-condition instrument-summary agreement,Nominal strain fractions are converted to percent; all 26 frequency/strain pairs pass the 5% audit tolerance.
+G_double_prime_Pa,VALID,Matched-condition instrument-summary agreement,Nominal strain fractions are converted to percent; all 26 frequency/strain pairs pass the 5% audit tolerance.
+phase_angle_deg,VALID,Derived feature; no independent instrument phase measurement,The supplied instrument summary has no directly matched phase-angle column.
+I3_I1,VALID WITH CAUTION,Matched-condition agreement; detrending caution,Twelve available harmonic pairs belong to the matched-condition set; the feature remains sensitive to detrending.
+I5_I1,UNSTABLE / EXPLORATORY,Exploratory,The feature is sensitive to detrending and lacks a matched instrument reference.
+THD_2to5,UNSTABLE / EXPLORATORY,Exploratory,The feature is sensitive to detrending and combines higher harmonics.
+lissajous_normalized_area,VALID DESCRIPTIVE,Descriptive feature,The feature describes loop shape; it is not an independent biological endpoint.

@@ -1,0 +1,12 @@
+validation_check,passed,observed
+Twenty scenario files,True,20
+"Every scenario has at least 10,000 rows",True,54000
+"Every replicate has at least 10,000 rows",True,18000
+Sixty separate known gel-time labels,True,60
+All generated trajectories equal 0.5 at their labelled gel time,True,9.79264447309447e-11
+Unit-scale fault is tagged,True,3
+Timing-window calculations retain gaps,True,18.03185886646429
+Ground truth stored outside observed CSVs,True,separate label file
+All primary methods have scenario-level scores,True,16
+Window sensitivity covers each predefined condition,True,4
+Measured Haemograph scale comparison available,True,215

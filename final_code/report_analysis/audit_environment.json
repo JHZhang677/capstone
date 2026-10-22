@@ -1,0 +1,12 @@
+{
+  "python": "3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "scope": "Report-completion audit environment; not a reconstruction of the original saved execution environment.",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "scipy": "1.18.1",
+  "matplotlib": "3.11.2",
+  "PyWavelets": "1.10.0",
+  "scikit-learn": "1.9.1",
+  "fcwt": "0.1.18",
+  "ruptures": "1.1.10"
+}

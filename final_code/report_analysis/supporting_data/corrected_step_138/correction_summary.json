@@ -1,0 +1,22 @@
+{
+  "corrected_records": [
+    "P1M0007",
+    "P1M0053",
+    "P1M0080",
+    "P1M0107",
+    "P1M0248"
+  ],
+  "settling_valid_all": 123,
+  "settling_valid_down": 59,
+  "settling_missing_down_to_01": 8,
+  "settling_down_summary": [
+    {
+      "direction": "down",
+      "feature": "settling_time",
+      "n": 59,
+      "median": 3.046,
+      "q25": 0.7886685,
+      "q75": 9.298665
+    }
+  ]
+}

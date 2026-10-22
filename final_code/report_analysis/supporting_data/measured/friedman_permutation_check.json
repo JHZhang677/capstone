@@ -1,0 +1,14 @@
+{
+  "replicates": 1000000,
+  "seed": 20261023,
+  "extreme_count": 1,
+  "p_plus_one": 1.999998000002e-06,
+  "binomial_interval_95": [
+    2.53178076637942e-08,
+    5.571630655121231e-06
+  ],
+  "friedman_tie_corrected": 22.299999999999994,
+  "asymptotic_p": 5.649585285996701e-05,
+  "tie_handling": "Average ranks retained; within-row permutation preserves tie correction.",
+  "interval_method": "Exact Clopper-Pearson interval for Monte Carlo exceedance probability"
+}

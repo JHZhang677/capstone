@@ -1,0 +1,5 @@
+measurement_type,feature_name,lower_sampling_rate_hz,higher_sampling_rate_hz,paired_measurement_count,spearman_rho_across_resampling_rates,median_absolute_difference
+LAOS,fft_harmonic_energy_fraction_1_3_5,25.0,50.0,181,0.9992714467852589,7.118700708046155e-05
+LAOS,fft_spectral_entropy_normalised,25.0,50.0,181,0.9905247606905064,0.023359216144328343
+LAOS,cwt_wavelet_energy_entropy_normalised,25.0,50.0,181,0.976156072288669,0.002097026534613522
+STEP_UP_DOWN,fft_spectral_entropy_normalised,5.0,10.0,136,0.8871857258718572,0.04662146728829859

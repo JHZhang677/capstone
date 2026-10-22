@@ -1,0 +1,153 @@
+step_id,sample,label,model,status,reason
+P1M0001,12FEB20,10-->.1,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0002,12FEB20,300--> 20(1/s),exponential,not interpretable,R2 < 0.5
+P1M0003,12FEB20,300-->5,exponential,not interpretable,R2 < 0.5
+P1M0004,12FEB20,300-->10,exponential,not interpretable,R2 < 0.5
+P1M0006,12FEB20,20-->.1,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0007,12FEB20,300-->.1,exponential,not interpretable,tau at bound; tau CI wider than tau; R2 < 0.5
+P1M0030,14DEC,20-->0.1,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0047,14MAR19,10-->.1,exponential,not interpretable,R2 < 0.5
+P1M0048,14MAR19,300--> 20(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0050,14MAR19,300-->10,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0051,14MAR19,5-->.1(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0052,14MAR19,20-->.1,exponential,not interpretable,R2 < 0.5
+P1M0053,14MAR19,300-->.1,exponential,not interpretable,R2 < 0.5
+P1M0074,27FEB19,10-->.1,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0077,27FEB19,300-->10,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0078,27FEB19,5-->.1(1/s),exponential,not interpretable,R2 < 0.5
+P1M0106,9MAY19,20-->.1,exponential,not interpretable,R2 < 0.5
+P1M0128,APR18,5-->0.1,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0129,APR18,5-->2.5,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0130,APR18,5-->1,exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0135,APR18,.1-->2.5,exponential,not interpretable,R2 < 0.5
+P1M0155,FEB18,5-->2.5 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0156,FEB18,5-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0157,FEB18,5-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0158,FEB18,5-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0160,FEB18,.25-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0162,FEB18,.25-->2.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0200,JUL18,5-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0201,JUL18,5-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0202,JUL18,5-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0204,JUL18,.25-->.5(1/s),exponential,not interpretable,tau at bound; R2 < 0.5
+P1M0205,JUL18,.25-->1(1/s),exponential,not interpretable,tau at bound
+P1M0206,JUL18,.25-->2.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0208,JUL18,.1-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0209,JUL18,.1-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0210,JUL18,.1-->1 (1/s),exponential,not interpretable,R2 < 0.5
+P1M0211,JUL18,.1-->2.5 (1/s),exponential,not interpretable,R2 < 0.5
+P1M0214,JUN18,5-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0216,JUN18,5-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0218,JUN18,.25-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0219,JUN18,.25-->1(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0220,JUN18,.25-->2.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0222,JUN18,.1-->.25(1/s),exponential,not interpretable,R2 < 0.5
+P1M0224,JUN18,.1-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0225,JUN18,.1-->2.5 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0316,DEC17,5-->2.5 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0317,DEC17,5-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0318,DEC17,5-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0319,DEC17,5-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0320,DEC17,5-->.1(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0321,DEC17,.25-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0322,DEC17,.25-->1(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0323,DEC17,.25-->2.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0325,DEC17,.1-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0326,DEC17,.1-->.5(1/s),exponential,not interpretable,R2 < 0.5
+P1M0327,DEC17,.1-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0328,DEC17,.1-->2.5 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0330,DEC17,5-->2.5 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0331,DEC17,5-->1 (1/s),exponential,not interpretable,R2 < 0.5
+P1M0332,DEC17,5-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0335,DEC17,.25-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0336,DEC17,.25-->1(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0339,DEC17,.1-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0340,DEC17,.1-->.5(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0342,DEC17,.1-->2.5 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0345,DEC17,5-->1 (1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0348,DEC17,5-->.1(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0350,DEC17,.25-->1(1/s),exponential,not interpretable,tau at bound; tau CI wider than tau
+P1M0353,DEC17,.1-->.25(1/s),exponential,not interpretable,tau CI wider than tau; R2 < 0.5
+P1M0001,12FEB20,10-->.1,ethixo-EVP,poor fit,NRMSE = 0.244
+P1M0005,12FEB20,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.308
+P1M0006,12FEB20,20-->.1,ethixo-EVP,poor fit,NRMSE = 0.283
+P1M0007,12FEB20,300-->.1,ethixo-EVP,poor fit,NRMSE = 0.247
+P1M0008,12FEB20,.1-->5,ethixo-EVP,poor fit,NRMSE = 0.136
+P1M0009,12FEB20,.1-->10,ethixo-EVP,poor fit,NRMSE = 0.157
+P1M0028,14DEC,5-->0.1 (1/s),ethixo-EVP,poor fit,NRMSE = 0.147
+P1M0029,14DEC,10-->0.1,ethixo-EVP,poor fit,NRMSE = 0.191
+P1M0030,14DEC,20-->0.1,ethixo-EVP,poor fit,NRMSE = 0.185
+P1M0031,14DEC,0.1-->5,ethixo-EVP,poor fit,NRMSE = 0.126
+P1M0034,14DEC,300-->5,ethixo-EVP,poor fit,NRMSE = 0.167
+P1M0047,14MAR19,10-->.1,ethixo-EVP,poor fit,NRMSE = 0.231
+P1M0049,14MAR19,300-->5,ethixo-EVP,poor fit,NRMSE = 0.133
+P1M0051,14MAR19,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.353
+P1M0052,14MAR19,20-->.1,ethixo-EVP,poor fit,NRMSE = 0.213
+P1M0053,14MAR19,300-->.1,ethixo-EVP,poor fit,NRMSE = 0.291
+P1M0054,14MAR19,.1-->5,ethixo-EVP,poor fit,NRMSE = 0.156
+P1M0074,27FEB19,10-->.1,ethixo-EVP,poor fit,NRMSE = 0.224
+P1M0076,27FEB19,300-->5,ethixo-EVP,poor fit,NRMSE = 0.143
+P1M0078,27FEB19,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.192
+P1M0079,27FEB19,20-->.1,ethixo-EVP,poor fit,NRMSE = 0.175
+P1M0080,27FEB19,300-->.1,ethixo-EVP,poor fit,NRMSE = 0.14
+P1M0101,9MAY19,10-->.1,ethixo-EVP,poor fit,NRMSE = 0.176
+P1M0103,9MAY19,300-->5,ethixo-EVP,poor fit,NRMSE = 0.112
+P1M0106,9MAY19,20-->.1,ethixo-EVP,poor fit,NRMSE = 0.169
+P1M0107,9MAY19,300-->.1,ethixo-EVP,poor fit,NRMSE = 0.213
+P1M0157,FEB18,5-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.126
+P1M0158,FEB18,5-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.136
+P1M0159,FEB18,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.169
+P1M0160,FEB18,.25-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.123
+P1M0162,FEB18,.25-->2.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.106
+P1M0163,FEB18,.25-->5(1/s),ethixo-EVP,poor fit,NRMSE = 0.129
+P1M0164,FEB18,.1-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.181
+P1M0201,JUL18,5-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.122
+P1M0202,JUL18,5-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.177
+P1M0203,JUL18,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.158
+P1M0204,JUL18,.25-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.137
+P1M0206,JUL18,.25-->2.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.101
+P1M0208,JUL18,.1-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.224
+P1M0209,JUL18,.1-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.189
+P1M0210,JUL18,.1-->1 (1/s),ethixo-EVP,poor fit,NRMSE = 0.135
+P1M0211,JUL18,.1-->2.5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.121
+P1M0212,JUL18,.1-->5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.116
+P1M0215,JUN18,5-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.12
+P1M0216,JUN18,5-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.232
+P1M0217,JUN18,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.221
+P1M0218,JUN18,.25-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.212
+P1M0219,JUN18,.25-->1(1/s),ethixo-EVP,poor fit,NRMSE = 0.113
+P1M0222,JUN18,.1-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.25
+P1M0223,JUN18,.1-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.214
+P1M0224,JUN18,.1-->1 (1/s),ethixo-EVP,poor fit,NRMSE = 0.154
+P1M0244,NOV18,300-->5,ethixo-EVP,poor fit,NRMSE = 0.136
+P1M0245,NOV18,5-->0.1,ethixo-EVP,poor fit,NRMSE = 0.17
+P1M0247,NOV18,10-->0.1,ethixo-EVP,poor fit,NRMSE = 0.181
+P1M0248,NOV18,300-->.1,ethixo-EVP,poor fit,NRMSE = 0.137
+P1M0249,NOV18,.1-->5,ethixo-EVP,poor fit,NRMSE = 0.105
+P1M0318,DEC17,5-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.141
+P1M0320,DEC17,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.212
+P1M0327,DEC17,.1-->1 (1/s),ethixo-EVP,poor fit,NRMSE = 0.119
+P1M0330,DEC17,5-->2.5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.205
+P1M0331,DEC17,5-->1 (1/s),ethixo-EVP,poor fit,NRMSE = 0.204
+P1M0332,DEC17,5-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.188
+P1M0333,DEC17,5-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.323
+P1M0334,DEC17,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.226
+P1M0335,DEC17,.25-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.307
+P1M0336,DEC17,.25-->1(1/s),ethixo-EVP,poor fit,NRMSE = 0.229
+P1M0337,DEC17,.25-->2.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.126
+P1M0338,DEC17,.25-->5(1/s),ethixo-EVP,poor fit,NRMSE = 0.134
+P1M0339,DEC17,.1-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.433
+P1M0340,DEC17,.1-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.3
+P1M0341,DEC17,.1-->1 (1/s),ethixo-EVP,poor fit,NRMSE = 0.202
+P1M0342,DEC17,.1-->2.5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.145
+P1M0343,DEC17,.1-->5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.144
+P1M0346,DEC17,5-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.122
+P1M0347,DEC17,5-->.25(1/s),ethixo-EVP,poor fit,NRMSE = 0.131
+P1M0348,DEC17,5-->.1(1/s),ethixo-EVP,poor fit,NRMSE = 0.16
+P1M0349,DEC17,.25-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.254
+P1M0350,DEC17,.25-->1(1/s),ethixo-EVP,poor fit,NRMSE = 0.221
+P1M0351,DEC17,.25-->2.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.39
+P1M0352,DEC17,.25-->5(1/s),ethixo-EVP,poor fit,NRMSE = 0.116
+P1M0354,DEC17,.1-->.5(1/s),ethixo-EVP,poor fit,NRMSE = 0.261
+P1M0356,DEC17,.1-->2.5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.141
+P1M0357,DEC17,.1-->5 (1/s),ethixo-EVP,poor fit,NRMSE = 0.141

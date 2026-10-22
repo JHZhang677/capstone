@@ -1,0 +1,5 @@
+{
+  "missing_reference_returns_missing": true,
+  "supported_in_band_trace_returns_first_time": true,
+  "candidate_at_or_after_30s_returns_missing": true
+}

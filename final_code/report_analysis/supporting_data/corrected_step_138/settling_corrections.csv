@@ -1,0 +1,6 @@
+step_id,workbook,n_stable,sigma_stable,previous_settling_time_s,corrected_settling_time_s,reason
+P1M0007,12FEB20 UDEL Blood.xlsx,0,,0.103016,,Missing or ineligible late reference stress
+P1M0053,14MAR19 SS SAOS STEP LAOS etc.xlsx,0,,0.102974,,Missing or ineligible late reference stress
+P1M0080,27FEB19 UDEL Blood.xlsx,0,,0.0890153,,Missing or ineligible late reference stress
+P1M0107,9MAY19 UDEL Blood.xlsx,0,,0.103009,,Missing or ineligible late reference stress
+P1M0248,NOV18 UDEL ARESG2 DATA.xlsx,0,,0.102988,,Missing or ineligible late reference stress

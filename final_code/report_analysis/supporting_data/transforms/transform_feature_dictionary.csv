@@ -1,0 +1,32 @@
+method,feature_name,measurement_interpretation,units,limitation
+FFT,dominant_frequency_hz,Most energetic non-zero global frequency,Hz,Global feature; loses time localisation.
+FFT,spectral_entropy_normalised,Spectral energy spread across frequency bins,dimensionless,Sensitive to record length and frequency resolution.
+FFT,high_to_low_frequency_energy_ratio,Relative fast versus slow stress variation,dimensionless,Split frequency is cohort-specific and documented in the parameter table.
+FFT,harmonic_energy_fraction_1_3_5,Energy near the fundamental and odd LAOS harmonics,fraction,Applicable only when a fundamental frequency is known.
+FFT,third_harmonic_energy_fraction,Nonlinear waveform distortion near the third harmonic,fraction,Uses a finite band around the labelled harmonic.
+FFT,fifth_harmonic_energy_fraction,Higher-order waveform distortion near the fifth harmonic,fraction,More sensitive to noise and finite record length.
+STFT,mean_spectral_entropy_normalised,Average within-window frequency spread,dimensionless,Depends on the selected fixed window length.
+STFT,frame_energy_coefficient_of_variation,Variation in transform energy across window positions,dimensionless,Short records provide few independent frames.
+STFT,coefficient_peak_time_s,Time of the largest local spectral-energy frame,s,Temporal precision is bounded by the hop length.
+STFT,transient_to_stable_energy_ratio,Transform energy in transient versus stable windows,dimensionless,Reported only when both windows have supported data.
+CWT,dominant_scale_frequency_hz,Physical frequency scale with the greatest wavelet energy,Hz,Affected by the cone of influence near record boundaries.
+CWT,wavelet_energy_entropy_normalised,Wavelet energy spread across physical scales,dimensionless,Depends on the selected wavelet and frequency grid.
+CWT,high_frequency_relative_energy,Share of wavelet energy above the stated frequency split,fraction,Low-resolution step data restrict the supported upper frequency.
+CWT,coefficient_peak_time_s,Time of the strongest high-frequency coefficient energy,s,Peak timing is less certain when edge-affected coefficients dominate.
+CWT,high_frequency_scale_decay_slope_per_s,Log-energy decay rate for the high-frequency scale band,s^-1,Exploratory; estimated over the first 2–10 seconds after the step.
+DWT,dwt_energy_entropy_normalised,Energy spread across approximation and dyadic detail bands,dimensionless,Depends on decomposition depth and boundary extension.
+DWT,dwt_relative_energy_level_1,Relative energy in the finest detail band,fraction,The physical band must be checked against native sampling support.
+DWT,dwt_high_to_low_frequency_energy_ratio,Relative detail energy above versus below the stated split,dimensionless,Coarse octave bands limit frequency specificity.
+DWT,dwt_coefficient_peak_time_s,Time of maximum reconstructed detail energy,s,Affected by wavelet support and boundary extension.
+DWT,dwt_transient_to_stable_energy_ratio,Reconstructed detail energy in transient versus stable windows,dimensionless,Requires adequate native samples in both windows.
+DWT,dwt_relative_energy_level_1,Relative energy in DWT detail level 1,fraction,The approximate physical band is recorded for each sampling rate.
+DWT,dwt_relative_energy_level_2,Relative energy in DWT detail level 2,fraction,The approximate physical band is recorded for each sampling rate.
+DWT,dwt_relative_energy_level_3,Relative energy in DWT detail level 3,fraction,The approximate physical band is recorded for each sampling rate.
+DWT,dwt_relative_energy_level_4,Relative energy in DWT detail level 4,fraction,The approximate physical band is recorded for each sampling rate.
+DWT,dwt_relative_energy_level_5,Relative energy in DWT detail level 5,fraction,The approximate physical band is recorded for each sampling rate.
+DWT,dwt_relative_energy_level_6,Relative energy in DWT detail level 6,fraction,The approximate physical band is recorded for each sampling rate.
+CWT,valid_coefficient_fraction,Fraction of wavelet coefficients retained inside the cone of influence,fraction,Features are withheld when the valid fraction is below 0.25.
+CWT,cwt_status,Indicates whether the window has sufficient edge-valid wavelet support,status,Short transient windows may not support interpretable CWT features.
+DWT,dwt_supported_level_count,Number of DWT detail bands whose centre frequencies fit the observed Nyquist limit,count,The band-centre rule is an approximation for octave-like DWT bands.
+DWT,dwt_frequency_support_limit_hz,Maximum frequency supported by both the target grid and observed sampling gaps,Hz,Irregularly spaced source samples limit physical frequency interpretation.
+DWT,dwt_status,Indicates whether any DWT detail band is supported by the observed sampling,status,The common low-resolution step windows may have no supported detail band.

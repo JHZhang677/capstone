@@ -1,0 +1,4 @@
+
+# Team code/data handover: dataset contents in Git LFS; readable documentation in Git.
+data/project_datasets/** filter=lfs diff=lfs merge=lfs -text
+data/project_datasets/**/*.md -filter -diff -merge text
