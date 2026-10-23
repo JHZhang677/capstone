@@ -1,0 +1,13 @@
+feature,protocol,role,decision,evidence,limitation
+G_double_prime,LAOS,Viscous response,Retain,1.6% median error against matched instrument summaries,Agreement with reference summaries is not device validation
+I3_over_I1,LAOS,Waveform nonlinearity,Provisional,6.5% median error across 12 matched conditions,Weak strain association and sensitivity to preprocessing
+FFT_high_low_ratio,Transform,Global frequency structure,Provisional,Direct strain association and a 25/50 Hz grid check,Overlap with DWT and added value remain untested
+Undershoot,Step,Step-down response and direction,Retain,Direction differed in 22 of 22 matched reverse pairs,Requires a late reference and magnitude evidence is exploratory
+Initial_slope,Step,Early step-up response and direction,Retain,Direction differed in 22 of 22 matched reverse pairs,Sensitive to early sampling and late normalisation
+Absolute_deviation,Step,Transient versus stable response,Retain,Transient value exceeded the stable value in 129 of 130 comparisons,Stable window defines the reference level
+G_prime_and_phase,LAOS,Reference rheology measures,Reference,Measured strain response,Phase is derived and G prime error increases near zero
+I5_over_I1_and_THD,LAOS,Higher harmonic support,Supporting,Sensitivity analysis,Limited reference checks and preprocessing sensitivity
+DWT_entropy_and_ratio,Transform,Wavelet frequency summary,Defer,Strong entropy association with strain,Overlap with FFT and boundary choices
+STFT_and_CWT,Transform,Time-frequency analysis,Task-specific,Synthetic timing and measured-data support checks,Measured transient support is limited
+Settling_time,Step,Recovery time,Supporting,Useful when a stable state is observed,Undefined when recovery is not captured
+Model_parameters,Step,Model plausibility check,Plausibility,52 of 135 fits met the tolerance rule,Limited fit reliability and model dependence

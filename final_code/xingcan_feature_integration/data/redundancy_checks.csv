@@ -1,0 +1,6 @@
+feature_1,feature_2,groups,median_spearman_rho,decision
+FFT_entropy,DWT_entropy,10,0.968,Strong overlap; retain one global transform summary
+FFT_high_low_ratio,DWT_high_low_ratio,9,0.886,Prefer FFT for the simpler global calculation
+FFT_high_low_ratio,I3_over_I1,10,0.036,Low median association does not prove independence
+Undershoot,Settling_time,14,0.850,Prefer undershoot in the candidate set because settling time has missing values
+
